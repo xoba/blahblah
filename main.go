@@ -1,5 +1,5 @@
 package blahblah
 
 func HelloWorld() string {
-	return "hello world from blah blah!"
+	return "hello world #2 from blah blah!"
 }
